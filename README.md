@@ -7,13 +7,13 @@
 ## 截图
 
 ### 首页
-![首页](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/1.png)
+![首页](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/%E9%A6%96%E9%A1%B5.png)
 
 ### 答题
-![答题](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/ScreenShot_2026-05-31_114538_653.png)
+![答题](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/%E7%AD%94%E9%A2%98.png)
 
 ### 结果
-![结果](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/ScreenShot_2026-05-31_114657_027.png)
+![结果](https://raw.githubusercontent.com/LocalBlue3306/AI-Rank-Hub/main/image/%E7%BB%93%E6%9E%9C.png)
 
 ## 技术栈
 
